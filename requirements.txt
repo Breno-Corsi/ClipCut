@@ -1,2 +1,2 @@
-keyboard==0.13.5
-gnome-screenshot==41.0
+opencv-python==4.11.0
+numpy==1.26.4
